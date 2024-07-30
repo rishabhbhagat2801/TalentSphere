@@ -34,7 +34,7 @@ const useStyles = makeStyles((theme) => ({
     height: '100vh',
   },
   image: {
-    backgroundImage: 'url(https://www.airlines.iata.org/sites/default/files/event_images/web_financial_health_iStock-517460304.png)',
+    backgroundImage: 'url(/TalentSphere.jpg)',
     backgroundRepeat: 'no-repeat',
     backgroundColor:
       theme.palette.type === 'light' ? theme.palette.grey[50] : theme.palette.grey[900],
